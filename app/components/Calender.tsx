@@ -64,7 +64,7 @@ function Calender() {
                         </div>
                     ))}
                 </div>
-             {/* fixing of the spiral strings and the image */}
+             {/* fixing of the spiral strings and the image .. */}
                 <div className="relative h-44 w-full overflow-hidden rounded-t-2xl">
                     <img
                         src="https://images.unsplash.com/photo-1511497584788-876760111969"
