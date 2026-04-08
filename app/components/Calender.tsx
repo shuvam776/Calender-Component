@@ -105,7 +105,7 @@ function Calender() {
                     100% { transform: perspective(1000px) rotateX(-180deg); opacity: 1; }
                 }
                 .calendar-flip {
-                    animation: flipCalendarOnly 0.2s ease-in-out forwards;
+                    animation: flipCalendarOnly 0.1s ease-in-out forwards;
                 }
             `}</style>
             <div className="relative w-full max-w-4xl bg-white rounded-2xl shadow-xl border border-gray-100">
